@@ -1,6 +1,4 @@
-Perfecto, Brigitte 🌟. Vamos a inventar un caso empresarial y, dentro de él, separar qué procesos son candidatos ideales para **RPA (Robotic Process Automation)** y cuáles no lo son.  
 
----
 
 ## 🏢 Caso inventado: **“Finanzas Aurora S.A.”**
 Una empresa ficticia de servicios financieros que ofrece créditos personales y empresariales, con 200 empleados y operaciones en varios países de Latinoamérica.  
